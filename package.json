@@ -1,0 +1,9 @@
+{
+  "name": "staking",
+  "version": "0.0.1",
+  "description": "staking",
+  "main": "index.js",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.4.0"
+  }
+}
